@@ -2,8 +2,7 @@
 
 
 
-./cuda-6.0/Inline_PTX_Assembly.pdf
-
+./cuda-6.0/Inline_PTX_Assembly.pdf  
 ./cuda-6.0/ptx_isa_4.0.pdf
 
 ./cuda-6.0/Thrust_Quick_Start_Guide.pdf
