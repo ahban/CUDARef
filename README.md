@@ -9,6 +9,7 @@ cuda-3.0
 cuda-3.1  
 cuda-3.2  
 cuda-4.0  
+cuda-4.1  
 cuda-4.2  
 cuda-5.0  
 cuda-5.5  
