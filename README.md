@@ -15,4 +15,4 @@ cuda-5.5
 cuda-6.0  
 cuda-7.0  
 cuda-7.5  
-
+cuda-8.0
