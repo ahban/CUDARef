@@ -1,8 +1,10 @@
 # CUDA Manuals
 
-NVIDIA does not provide all versions for CUDA manuals and tutorials. I put all of them here. Enjoy it!
+NVIDIA does not provide all versions for CUDA manuals and tutorials.
+I put part of them here. I appreciate it if you submite the remaining manuals to this repository.
 
-The repository includes:
+
+# This repository currently includes:
 
 cuda-2.3  
 cuda-3.0  
